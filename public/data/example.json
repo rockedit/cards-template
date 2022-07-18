@@ -1,0 +1,22 @@
+{
+    "name": "Matt",
+    "photo": "/img/avatar.png",
+    "manager": {
+        "name": "Thomas",
+        "title": "PM Lead"
+    },
+    "peers": [
+        {
+            "name": "Lei",
+            "title": "Sr Program Manager"
+        },
+        {
+            "name": "Andrew",
+            "title": "Program Manager II"
+        },
+        {
+            "name": "Mary Anne",
+            "title": "Program Manager"
+        }
+    ]
+}
